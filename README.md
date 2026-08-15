@@ -1,2 +1,1 @@
-# Git-Practice
-# 
+# Hello this is my sample Repository 
